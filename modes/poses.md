@@ -1,5 +1,5 @@
 ---
-description: Minecraft不再是單純站著，還有更多姿勢
+description: 使用坐下、躺下、趴下等玩家姿勢
 icon: bed-empty
 ---
 
@@ -20,3 +20,13 @@ icon: bed-empty
 `/spin` 旋轉
 
 <figure><img src="../.gitbook/assets/2024-11-17_15.46.52.png" alt=""><figcaption></figcaption></figure>
+
+`/layback` 向後躺下
+
+`/crawl` 爬行
+
+## 快速操作
+
+空手右鍵階梯、半磚或地毯等方塊可直接坐下；蹲下即可結束目前姿勢。
+
+爬行不會因連按兩次蹲下自動啟動，請使用 `/crawl`。
