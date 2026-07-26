@@ -1,5 +1,5 @@
 ---
-description: 那天，人類首次接觸到"Minecraft 伺服器"
+description: 加入日出伺服器，開始遊玩 Minecraft
 icon: location-minus
 ---
 
@@ -13,7 +13,7 @@ icon: location-minus
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-* 輸入伺服器名稱(自訂)與伺服器位置(`sunrisemc.tw`)，並點選 `完成`
+* 自訂伺服器名稱，並在伺服器位址輸入 `sunrisemc.tw`，再點選 `完成`
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -21,4 +21,6 @@ icon: location-minus
 
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-## 完成！盡情享受伺服器吧!
+## 完成！開始遊玩吧！
+
+進入伺服器後可輸入 `/menu` 開啟主選單。
