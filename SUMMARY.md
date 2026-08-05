@@ -6,6 +6,7 @@
 * [伺服器規則](joinus/rules.md)
 * [連結 Discord](joinus/discord.md)
 * [相關連結](joinus/links.md)
+* [聯絡管理員](joinus/contact.md)
 
 ## 各功能教學 <a href="#modes" id="modes"></a>
 
