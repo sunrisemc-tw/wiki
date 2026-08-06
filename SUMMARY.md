@@ -29,6 +29,7 @@
 * [捕捉球](modes/catch-ball.md)
 * [隨身工具包](modes/backpack.md)
 * [自動放置](modes/autofill.md)
+* [自動工具切換](modes/autoswitch.md)
 * [連鎖採集](modes/harvest.md)
 * [經驗瓶](modes/xp-bottle.md)
 * [電梯](modes/elevator.md)
