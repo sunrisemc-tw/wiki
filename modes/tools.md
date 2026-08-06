@@ -1,16 +1,12 @@
 ---
-description: 特殊附魔、裝備與物品工具
+description: 物品與工具
 icon: wand-magic-sparkles
 ---
 
-# 特殊附魔與工具
+# 物品工具
 
 下列功能可能需要指定權限、身分組或活動資格：
 
-* `/ce`：開啟特殊附魔介面。
-* `/tinker`：開啟附魔回收介面。
-* `/blacksmith`：開啟鐵匠介面。
-* `/gkit`：開啟套裝介面。
 * `/ceat`：將主手支援的礦物轉成可食用版本。
 * `/rename <名稱>`：重新命名主手物品。
 * `/imageframe`：查看圖片地圖功能說明。

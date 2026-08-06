@@ -13,7 +13,7 @@
 * [主選單](modes/menu.md)
 * [任務系統](modes/task.md)
 * [常用指令與世界切換](modes/basics.md)
-* [特殊附魔與工具](modes/tools.md)
+* [物品工具](modes/tools.md)
 * [公共傳送](modes/warps.md)
 * [餘額、經濟](modes/economy.md)
 * [AH 線上商城](modes/auctions.md)
