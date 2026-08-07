@@ -39,4 +39,3 @@ icon: gem
 * `/eatmineral`（別名 `/em`、`/eatm`）：管理員指令。
   * `/eatmineral list`：列出所有可食用礦物。
   * `/eatmineral give <礦物>`：給予可食用礦物。
-  * `/eatmineral reload`：重新載入設定。
