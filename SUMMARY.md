@@ -34,6 +34,7 @@
 * [自動工具切換](modes/autoswitch.md)
 * [連鎖採集](modes/harvest.md)
 * [經驗瓶](modes/xp-bottle.md)
+* [食用礦物](modes/eat-mineral.md)
 * [電梯](modes/elevator.md)
 * [粒子特效](modes/particle.md)
 * [史萊姆區塊地圖](modes/slime-map.md)
