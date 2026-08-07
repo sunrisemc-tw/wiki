@@ -14,6 +14,7 @@
 * [任務系統](modes/task.md)
 * [常用指令與世界切換](modes/basics.md)
 * [物品工具](modes/tools.md)
+* [冰茶](modes/icetea.md)
 * [特殊附魔](modes/enchant.md)
 * [公共傳送](modes/warps.md)
 * [餘額、經濟](modes/economy.md)
