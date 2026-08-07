@@ -1,6 +1,6 @@
 ---
 description: 製作清涼消暑的特殊冰茶飲料
-icon: cup-soda
+icon: cup-straw
 ---
 
 # 冰茶
