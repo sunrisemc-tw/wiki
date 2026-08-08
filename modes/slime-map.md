@@ -1,5 +1,5 @@
 ---
-description: 快速定位史萊姆區塊。
+description: 日出伺服器史萊姆區塊地圖教學：快速定位史萊姆區塊，農場建造必備，台灣 Minecraft 生存伺服器
 icon: kaaba
 ---
 

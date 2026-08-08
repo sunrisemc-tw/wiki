@@ -1,5 +1,5 @@
 ---
-description: 透過全服拍賣場買賣物品
+description: 日出伺服器拍賣系統教學：上架物品拍賣、競標與購買，交易經濟玩法
 icon: toggle-off
 ---
 

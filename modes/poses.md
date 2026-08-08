@@ -1,5 +1,5 @@
 ---
-description: 使用坐下、躺下、趴下等玩家姿勢
+description: 日出伺服器玩家姿勢教學：坐下、躺下、趴下等動作指令，拍照互動必學，台灣 Minecraft 生存伺服器
 icon: bed-empty
 ---
 

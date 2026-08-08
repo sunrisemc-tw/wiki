@@ -1,5 +1,5 @@
 ---
-description: 遊玩伺服器時必須遵守的規定
+description: 日出伺服器伺服器規則：遊玩必須遵守的規定，公平友善的生存環境
 icon: file-lines
 ---
 

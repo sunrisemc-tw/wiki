@@ -1,5 +1,5 @@
 ---
-description: 伺服器資訊、連線位址與常用連結
+description: 日出伺服器連線資訊：Java 版 sunrisemc.tw、基岩版 be.sunrisemc.tw 位址與常用連結整理
 icon: globe-pointer
 ---
 

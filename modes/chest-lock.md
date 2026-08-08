@@ -1,5 +1,5 @@
 ---
-description: 鎖定容器並設定可使用的玩家
+description: 日出伺服器箱子鎖教學：保護你的箱子與物品不被其他玩家開啟，台灣 Minecraft 生存伺服器
 icon: lock
 ---
 

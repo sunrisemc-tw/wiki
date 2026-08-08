@@ -1,5 +1,5 @@
 ---
-description: 建立公開傳送點，讓其他玩家參觀您的建築
+description: 日出伺服器公共傳送點教學：建立 /pw 公開傳送點，讓其他玩家參觀你的建築，台灣 Minecraft 生存伺服器
 icon: jet-fighter-up
 ---
 

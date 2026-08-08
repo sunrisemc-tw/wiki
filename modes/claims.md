@@ -1,5 +1,5 @@
 ---
-description: 建立領地，保護建築與物品
+description: 日出伺服器領地保護教學：/res 指令圈地、成員權限管理、保護建築不被破壞，台灣 Minecraft 生存伺服器
 icon: house-lock
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: 快速採礦、伐木與收割作物
+description: 日出伺服器作物收割教學：快速收割與種植技巧，農場經營必學，台灣 Minecraft 生存伺服器
 icon: pickaxe
 ---
 

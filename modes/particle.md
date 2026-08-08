@@ -1,5 +1,5 @@
 ---
-description: 設定角色周圍的粒子特效
+description: 日出伺服器粒子效果教學：裝備粒子特效、設定顯示方式，客製化你的角色，台灣 Minecraft 生存伺服器
 icon: sparkles
 ---
 

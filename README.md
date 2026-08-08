@@ -1,5 +1,5 @@
 ---
-description: 加入日出伺服器，開始遊玩 Minecraft
+description: 加入日出伺服器（SunriseMC）教學：Java 版 sunrisemc.tw、基岩版 be.sunrisemc.tw 連線位址與步驟，台灣 Minecraft 生存伺服器
 icon: location-minus
 ---
 

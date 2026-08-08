@@ -1,5 +1,5 @@
 ---
-description: 查詢日出鐵路沿線車站與設施
+description: 日出伺服器鐵路教學：建造運輸鐵路、車站與加速段，長距離移動更方便
 icon: train-subway
 ---
 

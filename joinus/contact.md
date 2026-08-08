@@ -1,5 +1,5 @@
 ---
-description: 遇到問題、檢舉、申訴時如何聯絡管理員
+description: 日出伺服器聯絡管理員方式：遊戲內回報、Discord 管道與處理流程
 icon: headset
 ---
 

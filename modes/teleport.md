@@ -1,5 +1,5 @@
 ---
-description: 管理家點、玩家互傳與隨機傳送
+description: 日出伺服器傳送教學：設定家點 /sethome、玩家互傳 /tpa、隨機傳送，台灣 Minecraft 生存伺服器
 icon: transporter-4
 ---
 

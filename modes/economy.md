@@ -1,5 +1,5 @@
 ---
-description: 餘額賺取、餘額使用、金錢交易
+description: 日出伺服器經濟系統教學：日幣賺取、商店交易、與其他玩家買賣資源
 icon: sack-dollar
 ---
 

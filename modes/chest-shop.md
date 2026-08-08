@@ -1,5 +1,5 @@
 ---
-description: 建立商店、買賣物資
+description: 日出伺服器箱子商店教學：建立 /qs 商店、設定價格與庫存，玩家交易必學，台灣 Minecraft 生存伺服器
 icon: toolbox
 ---
 

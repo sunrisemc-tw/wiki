@@ -1,5 +1,5 @@
 ---
-description: 伺服器特殊貨幣，與餘額不同
+description: 日出伺服器日幣教學：賺取與使用伺服器貨幣，交易經濟系統說明，台灣 Minecraft 生存伺服器
 icon: circle-dollar
 ---
 
