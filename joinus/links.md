@@ -1,4 +1,5 @@
 ---
+title: 連線位址與伺服器資訊｜日出伺服器
 description: 伺服器資訊、連線位址與常用連結
 icon: globe-pointer
 ---

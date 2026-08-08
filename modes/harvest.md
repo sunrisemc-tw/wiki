@@ -1,4 +1,5 @@
 ---
+title: 作物收割教學｜日出伺服器
 description: 快速採礦、伐木與收割作物
 icon: pickaxe
 ---

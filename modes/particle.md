@@ -1,4 +1,5 @@
 ---
+title: 粒子效果教學｜日出伺服器
 description: 設定角色周圍的粒子特效
 icon: sparkles
 ---

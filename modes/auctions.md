@@ -1,4 +1,5 @@
 ---
+title: 拍賣系統教學｜日出伺服器
 description: 透過全服拍賣場買賣物品
 icon: toggle-off
 ---

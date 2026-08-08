@@ -1,4 +1,5 @@
 ---
+title: 公共傳送點教學｜日出伺服器 生存伺服器
 description: 建立公開傳送點，讓其他玩家參觀您的建築
 icon: jet-fighter-up
 ---

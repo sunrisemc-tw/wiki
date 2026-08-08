@@ -1,4 +1,5 @@
 ---
+title: 伺服器規則｜日出伺服器
 description: 遊玩伺服器時必須遵守的規定
 icon: file-lines
 ---

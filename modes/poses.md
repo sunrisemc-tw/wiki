@@ -1,4 +1,5 @@
 ---
+title: 玩家姿勢教學：坐下/躺下/趴下｜日出伺服器
 description: 使用坐下、躺下、趴下等玩家姿勢
 icon: bed-empty
 ---

@@ -1,4 +1,5 @@
 ---
+title: 日幣（Coins）教學｜日出伺服器
 description: 伺服器特殊貨幣，與餘額不同
 icon: circle-dollar
 ---

@@ -1,4 +1,5 @@
 ---
+title: 加入伺服器教學｜日出伺服器 Minecraft 生存伺服器
 description: 加入日出伺服器，開始遊玩 Minecraft
 icon: location-minus
 ---
