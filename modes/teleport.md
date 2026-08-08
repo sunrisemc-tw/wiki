@@ -1,5 +1,4 @@
 ---
-title: 傳送教學：家點/玩家互傳/隨機傳送｜日出伺服器
 description: 管理家點、玩家互傳與隨機傳送
 icon: transporter-4
 ---

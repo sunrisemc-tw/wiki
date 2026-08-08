@@ -1,5 +1,4 @@
 ---
-title: 領地保護教學｜日出伺服器 Minecraft 生存伺服器
 description: 建立領地，保護建築與物品
 icon: house-lock
 ---

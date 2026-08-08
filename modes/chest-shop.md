@@ -1,5 +1,4 @@
 ---
-title: 箱子商店教學｜日出伺服器 生存伺服器
 description: 建立商店、買賣物資
 icon: toolbox
 ---

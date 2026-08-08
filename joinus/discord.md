@@ -1,5 +1,4 @@
 ---
-title: 連結 Discord 帳號教學｜日出伺服器
 description: 加入 Discord 並完成遊戲帳號綁定
 icon: discord
 ---

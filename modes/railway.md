@@ -1,5 +1,4 @@
 ---
-title: 鐵路運輸教學｜日出伺服器
 description: 查詢日出鐵路沿線車站與設施
 icon: train-subway
 ---

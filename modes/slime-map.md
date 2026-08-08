@@ -1,5 +1,4 @@
 ---
-title: 史萊姆區塊地圖教學｜日出伺服器
 description: 快速定位史萊姆區塊。
 icon: kaaba
 ---

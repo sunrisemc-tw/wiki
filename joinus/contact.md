@@ -1,5 +1,4 @@
 ---
-title: 聯絡管理員｜日出伺服器
 description: 遇到問題、檢舉、申訴時如何聯絡管理員
 icon: headset
 ---

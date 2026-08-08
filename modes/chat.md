@@ -1,5 +1,4 @@
 ---
-title: 聊天系統教學｜日出伺服器
 description: 在聊天室展示物品、背包與玩家資訊
 icon: message
 ---

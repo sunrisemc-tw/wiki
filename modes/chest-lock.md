@@ -1,5 +1,4 @@
 ---
-title: 箱子鎖教學｜日出伺服器
 description: 鎖定容器並設定可使用的玩家
 icon: lock
 ---

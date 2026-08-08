@@ -1,5 +1,4 @@
 ---
-title: 經濟系統教學｜日出伺服器
 description: 餘額賺取、餘額使用、金錢交易
 icon: sack-dollar
 ---
