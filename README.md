@@ -24,3 +24,31 @@ icon: location-minus
 ## 完成！開始遊玩吧！
 
 進入伺服器後可輸入 `/menu` 開啟主選單。
+
+## 連線位址一覽
+
+支援 Minecraft **1.21.11**，1.13 以上版本亦可連線。
+
+### Java 版
+
+| 位置 | 位址 |
+| --- | --- |
+| 自動 | `sunrisemc.tw` |
+| 台灣一 | `tw.sunrisemc.tw` |
+| 台灣二 | `tw2.sunrisemc.tw` |
+| 美區一 | `us.sunrisemc.tw` |
+| 美區二 | `us2.sunrisemc.tw` |
+| 香港一 | `hk.sunrisemc.tw` |
+| 韓國一 | `kr.sunrisemc.tw` |
+| 新加坡一 | `sg.sunrisemc.tw` |
+| 新加坡二 | `sg2.sunrisemc.tw` |
+
+### 基岩版
+
+| 位置 | 位址 | 連接埠 |
+| --- | --- | --- |
+| 自動 | `be.sunrisemc.tw` | `12345` |
+| 台灣 | `tw.be.sunrisemc.tw` | `19132` |
+| 香港 | `hk.be.sunrisemc.tw` | `2002` |
+| 韓國 | `kr.be.sunrisemc.tw` | `19132` |
+| 新加坡 | `sg.be.sunrisemc.tw` | `19132` |

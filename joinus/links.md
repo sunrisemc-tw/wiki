@@ -7,8 +7,9 @@ icon: globe-pointer
 
 ## 連線位址
 * Java 版
-    * 台灣一`sunrisemc.tw`&#x20;
-    * 台灣二`tw.sunrisemc.tw`&#x20;
+    * 自動`sunrisemc.tw`&#x20;
+    * 台灣一`tw.sunrisemc.tw`&#x20;
+    * 台灣二`tw2.sunrisemc.tw`&#x20;
     * 美區一`us.sunrisemc.tw`&#x20;
     * 美區二`us2.sunrisemc.tw`&#x20;
     * 香港一`hk.sunrisemc.tw`&#x20;
@@ -16,9 +17,9 @@ icon: globe-pointer
     * 新加坡一`sg.sunrisemc.tw`&#x20;
     * 新加坡二`sg2.sunrisemc.tw`
 * 基岩版
-    * 國際`be.sunrisemc.tw` Port `19132`&#x20;
+    * 自動`be.sunrisemc.tw` Port `12345`&#x20;
     * 台灣`tw.be.sunrisemc.tw` Port `19132`&#x20;
-    * 香港`hk.be.sunrisemc.tw` Port `12345`&#x20;
+    * 香港`hk.be.sunrisemc.tw` Port `2002`&#x20;
     * 韓國`kr.be.sunrisemc.tw` Port `19132`&#x20;
     * 新加坡`sg.be.sunrisemc.tw` Port `19132`
 
@@ -35,3 +36,4 @@ icon: globe-pointer
 * Discord：[https://discord.sunrisemc.tw](https://discord.sunrisemc.tw/)
 * 線上地圖：[https://map.sunrisemc.tw](https://map.sunrisemc.tw/)
 * Threads：[https://threads.sunrisemc.tw](https://threads.sunrisemc.tw/)
+* 假人系統：[https://fp.sunrisemc.tw](https://fp.sunrisemc.tw/)
