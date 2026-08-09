@@ -27,6 +27,7 @@
 * [鐵路車站列表](modes/railway.md)
 * [日幣](modes/coins.md)
 * [聊天功能](modes/chat.md)
+* [語音聊天](modes/voice-chat.md)
 * [變身](modes/morph.md)
 * [捕捉球](modes/catch-ball.md)
 * [隨身工具包](modes/backpack.md)
