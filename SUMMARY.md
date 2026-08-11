@@ -16,6 +16,7 @@
 * [物品工具](modes/tools.md)
 * [冰茶](modes/icetea.md)
 * [特殊附魔](modes/enchant.md)
+* [解除綁定詛咒](modes/unbind.md)
 * [公共傳送](modes/warps.md)
 * [餘額、經濟](modes/economy.md)
 * [AH 線上商城](modes/auctions.md)
