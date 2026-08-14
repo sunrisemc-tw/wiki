@@ -1,6 +1,6 @@
 ---
 description: 日出伺服器方塊偵測教學：用 /co i 查看方塊與箱子被誰放置、破壞或取用，台灣 Minecraft 生存伺服器
-icon: search
+icon: magnifier
 ---
 
 # 方塊偵測
