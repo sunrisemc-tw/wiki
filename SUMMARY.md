@@ -25,6 +25,7 @@
 * [玩家姿勢](modes/poses.md)
 * [傳送](modes/teleport.md)
 * [鎖箱](modes/chest-lock.md)
+* [方塊偵測](modes/inspect.md)
 * [鐵路車站列表](modes/railway.md)
 * [日幣](modes/coins.md)
 * [聊天功能](modes/chat.md)
