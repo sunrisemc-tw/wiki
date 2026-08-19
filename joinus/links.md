@@ -25,7 +25,7 @@ icon: globe-pointer
 
 
 
-支援 Minecraft 1.21.11；1.13 以上版本亦可嘗試連線。
+支援 Minecraft Java 26.2；1.13 以上版本亦可嘗試連線。
 
 ## 常用連結
 * YouTube：[https://youtube.sunrisemc.tw](https://youtube.sunrisemc.tw/)

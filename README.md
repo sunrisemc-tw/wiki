@@ -27,7 +27,7 @@ icon: location-minus
 
 ## 連線位址一覽
 
-支援 Minecraft **1.21.11**，1.13 以上版本亦可連線。
+支援 Minecraft **Java 26.2**，1.13 以上版本亦可連線。
 
 ### Java 版
 
