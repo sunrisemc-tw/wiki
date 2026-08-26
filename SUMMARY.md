@@ -19,7 +19,7 @@
 * [解除綁定詛咒](modes/unbind.md)
 * [公共傳送](modes/warps.md)
 * [餘額、經濟](modes/economy.md)
-* [AH 線上商城](modes/auctions.md)
+* [官方商店](modes/official-shop.md)
 * [箱子商店](modes/chest-shop.md)
 * [領地](modes/claims.md)
 * [玩家姿勢](modes/poses.md)
