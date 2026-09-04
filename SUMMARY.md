@@ -32,6 +32,7 @@
 * [語音聊天](modes/voice-chat.md)
 * [變身](modes/morph.md)
 * [捕捉球](modes/catch-ball.md)
+* [頭顱掉落](modes/head-drop.md)
 * [隨身工具包](modes/backpack.md)
 * [自動放置](modes/autofill.md)
 * [自動工具切換](modes/autoswitch.md)
