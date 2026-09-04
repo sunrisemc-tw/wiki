@@ -12,6 +12,7 @@
 
 * [主選單](modes/menu.md)
 * [任務系統](modes/task.md)
+* [職業系統](modes/job.md)
 * [常用指令與世界切換](modes/basics.md)
 * [物品工具](modes/tools.md)
 * [冰茶](modes/icetea.md)
